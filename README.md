@@ -23,4 +23,4 @@ Sub-100ms p99 latency, 18% NDCG@10 lift over CF baseline.
 
 ---
 
-📫 [LinkedIn]https://www.linkedin.com/in/shuruthib/ · [[Portfolio](https://shuruthib.github.io/Portfolio/)] · [Email](surushuruthi@gmail.com)
+📫 [[LinkedIn]https://www.linkedin.com/in/shuruthib/] · [[Portfolio](https://shuruthib.github.io/Portfolio/)] · [[Email](surushuruthi@gmail.com)]
